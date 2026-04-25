@@ -253,8 +253,8 @@ flutter build apk --release
 
 ## 📬 Контакты
 
-- **Автор**: [Ваше Имя](https://github.com/your-username)
-- **Email**: your.email@example.com
+- **Автор**: [Ильнур Мустафин](https://github.com/IlnurMustafin)
+- **Email**: ilnur.mustafinn@gmail.com
 
 ---
 
